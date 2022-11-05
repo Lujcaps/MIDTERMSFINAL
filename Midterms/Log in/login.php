@@ -28,7 +28,7 @@
                 <br>
 
                 <input type="text" name="userName" id="inputEmail" class="form-control" placeholder="User Name" required autofocus>
-                <input type="text"  name="password" id="inputPassword" class="form-control" placeholder="Password" required>
+                <input type="password"  name="password" id="inputPassword" class="form-control" placeholder="Password" required>
              
                 <button class="btn btn-lg btn-primary btn-block btn-signin" type="submit" name="Signin">Sign in</button>
             </form>
